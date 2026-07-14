@@ -1,0 +1,97 @@
+# AI-Assisted Outcome-Based Assessment Generator
+
+## Project Overview
+
+This project demonstrates how Artificial Intelligence can assist in curriculum analysis and assessment design. Using the Database Management System (DBMS) syllabus, a structured assessment bank of 100 multiple-choice questions was created and analyzed using Microsoft Power BI.
+
+---
+
+## Objectives
+
+- Analyze the DBMS curriculum.
+- Create a structured course index.
+- Generate a 100-question assessment bank.
+- Categorize questions by difficulty and Bloom's Taxonomy.
+- Visualize curriculum coverage using Power BI.
+
+---
+
+## Technologies Used
+
+- ChatGPT
+- Microsoft Excel
+- Microsoft Power BI
+- GitHub
+
+---
+
+## Project Workflow
+
+University Syllabus
+
+↓
+
+Course Index
+
+↓
+
+AI-Assisted MCQ Generation
+
+↓
+
+Question Validation
+
+↓
+
+Excel Dataset
+
+↓
+
+Power BI Dashboard
+
+---
+
+## Dataset
+
+The dataset contains:
+
+- 100 Unique MCQs
+- 8 DBMS Units
+- Topic-wise categorization
+- Difficulty Levels
+- Bloom's Taxonomy
+- Correct Answers
+- Explanations
+
+---
+
+## Dashboard Features
+
+- Total Questions
+- Questions by Unit
+- Difficulty Distribution
+- Bloom's Taxonomy Distribution
+- Topic Coverage
+- Interactive Filters
+
+---
+
+## Project Outcome
+
+This project demonstrates AI-assisted educational content creation, curriculum mapping, assessment design, and data visualization using Power BI.
+
+---
+
+## Future Improvements
+
+- Automatic Question Generation using APIs
+- Support for Multiple Subjects
+- Difficulty Prediction using Machine Learning
+- Web-based Assessment Generator
+
+---
+
+## Author
+
+Anandi Sah
+Chandigarh University
