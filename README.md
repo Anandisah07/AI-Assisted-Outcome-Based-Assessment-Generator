@@ -80,7 +80,7 @@ Educational Analytics
 
  📸 Dashboard Preview
 
-![Dashboard](dashboard.png<img width="1245" height="702" alt="image" src="https://github.com/user-attachments/assets/038f378b-c730-468c-b983-702877555396" />
+dashboard.png<img width="1245" height="702" alt="image" src="https://github.com/user-attachments/assets/038f378b-c730-468c-b983-702877555396" />
 )
 
 ---
